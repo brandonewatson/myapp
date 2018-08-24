@@ -1,3 +1,4 @@
+document.write('Goodbye World');
 const express = require('express')
 const app = express()
 
